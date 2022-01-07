@@ -1,0 +1,19 @@
+# Django
+
+Include/
+Lib/
+Scripts/
+
+pages/
+
+templates/
+
+static-dev/
+static/
+media/
+
+# db
+
+*sqlite3
+
+__pycache__/
